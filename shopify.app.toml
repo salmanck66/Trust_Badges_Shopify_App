@@ -3,7 +3,7 @@
 client_id = "a369b50c9ab16ffc2c00a12bafa4adbd"
 name = "trust-badges-app"
 handle = "trust-badges-app-1"
-application_url = "https://wb-glasses-essentially-italian.trycloudflare.com"
+application_url = "https://aa-thinking-vs-explosion.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://wb-glasses-essentially-italian.trycloudflare.com/auth/callback",
-  "https://wb-glasses-essentially-italian.trycloudflare.com/auth/shopify/callback",
-  "https://wb-glasses-essentially-italian.trycloudflare.com/api/auth/callback"
+  "https://aa-thinking-vs-explosion.trycloudflare.com/auth/callback",
+  "https://aa-thinking-vs-explosion.trycloudflare.com/auth/shopify/callback",
+  "https://aa-thinking-vs-explosion.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
